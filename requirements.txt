@@ -1,0 +1,3 @@
+tensorflow
+bs4
+requests
