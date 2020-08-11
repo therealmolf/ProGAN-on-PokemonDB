@@ -16,7 +16,7 @@ def download_image(image):
     
     file = open(('C://Users//Miko Planas//Documents//GitHub'
     '//ProGAN-on-PokemonDB//'
-    'dataset//pokemondb//{}.jpg').format(image[0]), 'wb')
+    'dataset//pokemondb_raw//{}.jpg').format(image[0]), 'wb')
     
     response.raw.decode_content = True
     shutil.copyfileobj(response.raw, file)
