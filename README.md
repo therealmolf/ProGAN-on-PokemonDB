@@ -1,2 +1,2 @@
-# ProGAN-on-PokemonDB
+# SAGAN-on-PokemonDB
 Generate pokemon images using webscraped PokemonDB dataset
